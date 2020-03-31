@@ -12,6 +12,8 @@ You can create these lines (categories, labels) to be seen on the graph, with re
 and some pip installs to resolve the dependencies
 
 it is important to start this script at computer startup, for ubuntu just edit the file /etc/rc.local
+
+To see the GUI type in your browser: [http://localhost:3000](http://localhost:3000)
   
 **Tested on**: Linux Ubuntu and Mint  
   
