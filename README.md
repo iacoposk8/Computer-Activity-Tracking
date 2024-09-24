@@ -1,3 +1,5 @@
+[![Support me](https://iacoposk8.github.io/img/buymepizza.png)](https://buymeacoffee.com/iacoposk8)
+
 # Computer Activity Tracking
 Computer Activity Tracking is a script in Python that monitors and saves the title of the window you are using on your PC.  
 You will see a graph showing how much you have worked or how much time you have lost.  
